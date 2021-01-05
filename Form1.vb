@@ -127,6 +127,9 @@
 
     Private Sub ClearEntry()
         txtNIM.Text = ""
+        txtNama.Text = ""
+        txtDosenWali.Text = ""
+        txtFakultasProdi.Text = ""
         txtTahun_Akademik.Text = ""
         txtGanjil.Checked = False
         txtGenap.Checked = False
